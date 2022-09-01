@@ -348,13 +348,13 @@ ul {
 
 .teammates-container {
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .social-networks {
     display: flex;
     gap: 10px;
     margin-top: 16px;
-    padding-bottom: 30px;
     justify-content: center;
 }
 

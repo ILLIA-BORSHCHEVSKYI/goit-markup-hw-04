@@ -182,7 +182,7 @@ ul {
         rgba(47, 48, 58, 0.4)
         ), 
         url(../images/bg-hero.jpg);
-    width: 1600px;
+    max-width: 1600px;
     margin-right: auto;
     margin-left: auto;
     background-repeat: no-repeat;

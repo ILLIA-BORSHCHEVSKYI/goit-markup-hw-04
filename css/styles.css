@@ -219,6 +219,7 @@ ul {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    border: none;
 }
 
 .hero-button:hover,
@@ -504,8 +505,6 @@ ul {
     display: flex;
     gap: 10px;
     margin-top: 16px;
-    padding-bottom: 30px;
-    
 }
 
 .network-container {
